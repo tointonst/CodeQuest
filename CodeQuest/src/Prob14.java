@@ -10,7 +10,7 @@ public class Prob14
 		Scanner file = new Scanner( new File( "prob14.txt" ) );
 	    while(!file.nextLine().equals("PLAY"))
 	    	{
-	    	int one = file.nextInt()
+	    //aksjdhfklajshdfas
 	    	
 	    	}
 		}
